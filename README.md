@@ -1,2 +1,7 @@
 # numerical-methods-python
-Python implementations of numerical methods and algorithms for computational physics, scientific computing, and numerical analysis.  
+This repository contains Python implementations of various numerical methods, including:
+#### - Root Findinig Methods
+- Bisection Method
+- False Positon Method
+- Fixed Point Iteration Method
+- Newton-Raphson Method
